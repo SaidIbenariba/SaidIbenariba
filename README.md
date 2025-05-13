@@ -15,28 +15,6 @@ Passionate about AI, Data Science, and Fullstack Development, I have hands-on ex
 
 ---
 
-## 💡 Key Competencies
-
-- 🔍 **Exploratory Data Analysis (EDA)**  
-  Handling large datasets, feature engineering, correlation, visual summaries.
-
-- 🧠 **Supervised / Unsupervised Learning**  
-  Regression, classification, clustering, decision trees, SVMs, KNN.
-
-- 🧪 **Model Evaluation & Optimization**  
-  Cross-validation, hyperparameter tuning, precision-recall, ROC curves.
-
-- 🗣 **NLP & Prompt Engineering**  
-  Experience with transformer models (BERT, GPT), fine-tuning, LLM integration.
-
-- 🔌 **Real-world Integration**  
-  Built full-stack apps powered by ML models and REST APIs (Python backend + React frontend).
-
-- 📈 **Business Intelligence & Reporting**  
-  Visual dashboards using **Power BI**, **Tableau**, and custom analytics.
-
----
-
 ## 📦 Core Libraries & Tools
 
 ### 🧠 Data Science & Machine Learning
@@ -98,14 +76,5 @@ _Freelance Web Developer_ — 2024–Current
 - Built SEO-optimized websites with lead generation features.  
 - Developed full-stack functionality using WordPress, JavaScript, and PHP.
 
-### **TDTE.fr**  
-_Freelance Web Developer (WordPress)_ — 2024  
-- Designed conversion-focused landing page.  
-- Optimized speed and mobile experience.
-
-### **TafaseelAgency**  
-_Freelance Web Developer (WordPress)_ — 2024–2025  
-- Developed dynamic front-end and custom plugins.  
-- Focused on performance and CMS integration.
 
 

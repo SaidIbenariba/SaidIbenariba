@@ -1,97 +1,94 @@
-# 👋 Hi, I'm Said Ibenariba
+# 👨‍💻 Said Ibenariba
 
-🎓 AI & Data Science Enthusiast | 💻 Fullstack Developer  
-🌍 Based in Rabat, Morocco | 📅 2024 - current  
-
----
-
-## 👤 Profile
-
-Passionate about **AI**, **Data Science**, and **Fullstack Development**, I have hands-on experience in:
-- Machine Learning and LLMs
-- Web scraping and automation
-- AI model integration in real-world applications
-
-🔍 Currently seeking to leverage my skills in **data extraction**, **prompt engineering**, and **machine learning** to contribute to impactful AI-driven solutions.
+**AI & Data Science Enthusiast | Fullstack Developer**  
+Passionate about AI, Data Science, and Fullstack Development, I have hands-on experience in machine learning, LLMs, and data-driven solutions. My background includes web scraping, AI-driven automation, and integrating AI models into real-world applications. I am eager to leverage my skills in data extraction, prompt engineering, and machine learning to contribute to innovative AI solutions.
 
 ---
 
-## 🎓 Education
+## 🔬 Data Science & Machine Learning Stack
 
-- **Master’s (M1) Degree in Data Science and Engineering**  
-  *Mohammed V University, Rabat* (2024 - present)
-
-- **Bachelor’s Degree in Computer Science**  
-  *Mohammed V University, Rabat* (2021 - 2024)
-
----
-
-## 🛠️ Skills & Tools
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-
-### 📊 Data & Analytics
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4584b6?style=flat)
-
-### 🧠 Machine Learning & Backend
-- Data Science, Machine Learning
-- REST APIs, Firebase, MySQL
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+| 🧠 **ML & AI** | 📊 **Data Viz** | 🧮 **Math & Stats** | 🛠 **Tools & Workflow** |
+|----------------|----------------|---------------------|--------------------------|
+| `scikit-learn` | `Matplotlib`   | `NumPy`, `Pandas`   | `Jupyter`, `Colab`       |
+| `TensorFlow` / `Keras` | `Seaborn`, `Plotly` | `SciPy`, `Statsmodels` | `VS Code`, `Git`, `GitHub` |
+| `NLP` & `LLMs` | `Power BI`, `Tableau` | Regression, Clustering, Time Series | APIs, REST, Flask |
 
 ---
 
-## 💼 Work Experience
+## 💡 Key Competencies
 
-### **Aribamedia** — *Freelance Web Developer (2024 - present)*
-- Built SEO-friendly showcase and e-commerce websites
-- Developed full-stack systems using WordPress, HTML, CSS, JavaScript, and PHP
-- Integrated custom plugins and improved CMS efficiency
+- 🔍 **Exploratory Data Analysis (EDA)**  
+  Handling large datasets, feature engineering, correlation, visual summaries.
 
-### **TDTE.fr** — *Freelance Web Developer (2024)*
-- Designed and deployed a high-conversion landing page
-- Ensured mobile-first compatibility and optimized load times
+- 🧠 **Supervised / Unsupervised Learning**  
+  Regression, classification, clustering, decision trees, SVMs, KNN.
 
-### **Tafaseel Agency** — *Freelance Web Developer (2024 - 2025)*
-- Enhanced client websites with customized WordPress features and UX improvements
+- 🧪 **Model Evaluation & Optimization**  
+  Cross-validation, hyperparameter tuning, precision-recall, ROC curves.
 
----
+- 🗣 **NLP & Prompt Engineering**  
+  Experience with transformer models (BERT, GPT), fine-tuning, LLM integration.
 
-## 📝 Certifications
+- 🔌 **Real-world Integration**  
+  Built full-stack apps powered by ML models and REST APIs (Python backend + React frontend).
 
-- 🏆 Front End Development Libraries – *FreeCodeCamp* (2024)
-
----
-
-## 🌐 Languages
-
-- 🇬🇧 English — Written & Spoken  
-- 🇫🇷 French — Professional  
-- 🇲🇦 Arabic — Native
+- 📈 **Business Intelligence & Reporting**  
+  Visual dashboards using **Power BI**, **Tableau**, and custom analytics.
 
 ---
 
-## 📫 Contact
+## 📦 Core Libraries & Tools
 
-- ✉️ saidibenariba@gmail.com  
-- 📞 +212 684419392  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4584b6?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Education
 
-![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaidIbenariba&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidIbenariba&layout=compact&theme=radical)
+- 🎓 **Master’s (M1)** in Data Science and Engineering — _2024–Current_  
+  Mohammed V University in Rabat  
+- 🎓 **Bachelor’s** in Computer Science — _2021–2024_  
+  Mohammed V University in Rabat
+
+---
+
+## 🧾 Certifications
+
+- ✅ **Front End Development Libraries** – *FreeCodeCamp*, 2024
+
+---
+
+## 💬 Languages
+
+- 🇫🇷 French: Professional  
+- 🇺🇸 English: Written & Spoken  
+- 🇲🇦 Arabic: Native
+
+---
+
+## 💼 Experience
+
+### **Aribamedia**  
+_Freelance Web Developer_ — 2024–Current  
+- Built SEO-optimized websites with lead generation features.  
+- Developed full-stack functionality using WordPress, JavaScript, and PHP.
+
+### **TDTE.fr**  
+_Freelance Web Developer (WordPress)_ — 2024  
+- Designed conversion-focused landing page.  
+- Optimized speed and mobile experience.
+
+### **TafaseelAgency**  
+_Freelance Web Developer (WordPress)_ — 2024–2025  
+- Developed dynamic front-end and custom plugins.  
+- Focused on performance and CMS integration.
+
+

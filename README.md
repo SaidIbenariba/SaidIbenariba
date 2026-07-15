@@ -71,6 +71,8 @@ Passionate about AI, Data Science, and Fullstack Development, I have hands-on ex
 ---
 
 ## 💼 Experience
+### **Orange Business**  
+_Data Scientist Intern_ — 2 month  
 
 ### **Aribamedia**  
 _Freelance Web Developer_ — 2024–Current  

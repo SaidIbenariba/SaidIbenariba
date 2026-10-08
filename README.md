@@ -9,6 +9,7 @@ At **Orange Business** I took a vision-language model from prototype to producti
 ### What I build
 
 - **Document data extraction.** Invoices, receipts, delivery notes and statements to a fixed schema, checked against business rules, with anything doubtful sent to a person.
+- **Order and catalog matching.** Customer orders written in their own words, matched to your SKUs, checked for price, quantity and duplicates before they reach the ERP.
 - **Private AI.** Open models (Qwen2.5-VL, Mistral) on Ollama or vLLM, on your own machine or server, when documents can't go to a cloud API.
 - **The app around the model.** FastAPI services, review screens, and full-stack web apps (React, Next.js).
 - **Arabic and French NLP.** Text cleaning and classification for Arabic, including Moroccan Darija.
@@ -18,6 +19,7 @@ At **Orange Business** I took a vision-language model from prototype to producti
 | Project | What it shows |
 |---|---|
 | [**private-invoice-ai**](https://github.com/SaidIbenariba/private-invoice-ai) | Invoices, scans and phone photos to validated data with a local vision-language model, 9 business checks, Excel export and a review screen. Held-out test: 24/24 invoices fully correct, 8/8 planted errors caught. |
+| [**order-intake-ai**](https://github.com/SaidIbenariba/order-intake-ai) | Customer order emails, PDFs and phone photos to ERP-ready orders, every line matched to a catalog SKU (English and French), with a review screen that remembers each confirmation. Held-out test: 0 wrong automatic matches on 761 lines; 0 errors reached the ERP on 30 emails. |
 | [**invoiceops**](https://github.com/SaidIbenariba/invoiceops) | Built in public: mapping heterogeneous supplier invoice columns to one schema (alias, fuzzy and multilingual-embedding stages), with ablations and bootstrap confidence intervals. |
 | [**AraHateSpeech_Detection**](https://github.com/SaidIbenariba/AraHateSpeech_Detection_Twitter_Master2) | Hate-speech detection for Arabic tweets across dialects and Moroccan Darija: Arabic normalization pipeline, TF-IDF + Linear SVC baseline, transformer fine-tuning. Master's project. |
 

@@ -38,3 +38,5 @@ At **Orange Business** I took a vision-language model from prototype to producti
 ### Work with me
 
 Available for document-processing and applied-AI projects. Send me a few sample documents and I'll show you what can be extracted before we start.
+
+[![Hire me on Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01940599324880c3de)

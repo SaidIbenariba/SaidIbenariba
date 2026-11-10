@@ -1,5 +1,3 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaidIbenariba&show_icons=true&theme=default&hide=issues)
-
 ## Hi, I'm Said 👋
 
 **AI Developer & Engineer · Data Scientist · Rabat, Morocco · English / Français / العربية**
